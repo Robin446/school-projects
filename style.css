@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+.parlax-container{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
